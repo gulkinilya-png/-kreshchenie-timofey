@@ -1,0 +1,12 @@
+{
+  "name": "kreshchenie-timofey-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Приглашение на крещение Тимофея с Telegram RSVP",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
